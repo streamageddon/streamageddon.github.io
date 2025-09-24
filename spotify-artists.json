@@ -3553,6 +3553,56 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
-    }
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48EurMIjEUuRpNFLbkSiwa"
+      },
+      "followers": {
+        "href": null,
+        "total": 22
+      },
+      "genres": ["rock", "folk", "indie pop"],
+      "href": "https://api.spotify.com/v1/artists/48EurMIjEUuRpNFLbkSiwa?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
+      "id": "48EurMIjEUuRpNFLbkSiwa",
+      "images": [],
+      "name": "Summer Sleeves",
+      "popularity": 0,
+      "type": "artist",
+      "uri": "spotify:artist:48EurMIjEUuRpNFLbkSiwa"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5ClX8NZncckoDDV5FgKFvd"
+    },
+    "followers": {
+      "href": null,
+      "total": 47
+    },
+    "genres": ["alternative", "psychedelic folk", "indie rock", "folk"],
+    "href": "https://api.spotify.com/v1/artists/5ClX8NZncckoDDV5FgKFvd?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
+    "id": "5ClX8NZncckoDDV5FgKFvd",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb010a2d8392b913c0681b781e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174010a2d8392b913c0681b781e",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178010a2d8392b913c0681b781e",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Lilacseason",
+    "popularity": 0,
+    "type": "artist",
+    "uri": "spotify:artist:5ClX8NZncckoDDV5FgKFvd"
+  }
   ]
 }

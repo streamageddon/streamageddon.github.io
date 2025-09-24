@@ -3603,6 +3603,60 @@
     "popularity": 0,
     "type": "artist",
     "uri": "spotify:artist:5ClX8NZncckoDDV5FgKFvd"
+  },
+  {
+    "external_urls": {
+      "spotify": ""
+    },
+    "followers": {
+      "href": null,
+      "total": 0
+    },
+    "genres": ["acoustic", "folk"],
+    "href": "",
+    "id": "",
+    "images": [
+    ],
+    "name": "Kevin Sur",
+    "popularity": 0,
+    "type": "artist",
+    "uri": ""
+  },
+  {
+    "external_urls": {
+      "spotify": ""
+    },
+    "followers": {
+      "href": null,
+      "total": 0
+    },
+    "genres": ["ambient"],
+    "href": "",
+    "id": "",
+    "images": [
+    ],
+    "name": "Elias Hampton",
+    "popularity": 0,
+    "type": "artist",
+    "uri": ""
+  },
+  {
+    "external_urls": {
+      "spotify": ""
+    },
+    "followers": {
+      "href": null,
+      "total": 0
+    },
+    "genres": ["metal", "progressive metal", "grunge", "death metal"],
+    "href": "",
+    "id": "",
+    "images": [
+    ],
+    "name": "Of The Sun",
+    "popularity": 0,
+    "type": "artist",
+    "uri": ""
   }
   ]
 }

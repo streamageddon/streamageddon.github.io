@@ -151,7 +151,10 @@
         "href": null,
         "total": 1987
       },
-      "genres": [],
+      "genres": [
+        "electronic",
+        "house",
+        "techno"],
       "href": "https://api.spotify.com/v1/artists/1kpDT6GWeimdyCmkwvTPvt?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "1kpDT6GWeimdyCmkwvTPvt",
       "images": [
@@ -291,7 +294,7 @@
         "href": null,
         "total": 1799
       },
-      "genres": [],
+      "genres": ["electronic"],
       "href": "https://api.spotify.com/v1/artists/5As9k4aeJ897xlMRrFp8mE?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "5As9k4aeJ897xlMRrFp8mE",
       "images": [
@@ -324,7 +327,7 @@
         "href": null,
         "total": 713
       },
-      "genres": [],
+      "genres": ["electronic"],
       "href": "https://api.spotify.com/v1/artists/1rGwnZdib4PzGaxYuXJBhb?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "1rGwnZdib4PzGaxYuXJBhb",
       "images": [
@@ -464,7 +467,7 @@
         "href": null,
         "total": 8825
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/0Pq1H8ePZYN3szPLokzclz?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "0Pq1H8ePZYN3szPLokzclz",
       "images": [
@@ -645,7 +648,13 @@
         "href": null,
         "total": 824
       },
-      "genres": [],
+      "genres": [
+        "alternative",
+        "post-rock",
+        "ambient",
+        "indie rock",
+        "folk",
+        "shoegaze"],
       "href": "https://api.spotify.com/v1/artists/5Smal34Zq8B31aNJySKGRc?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "5Smal34Zq8B31aNJySKGRc",
       "images": [
@@ -678,7 +687,7 @@
         "href": null,
         "total": 763
       },
-      "genres": [],
+      "genres": ["indie rock"],
       "href": "https://api.spotify.com/v1/artists/4AwtVXxRyTDFA5MCOglMF8?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "4AwtVXxRyTDFA5MCOglMF8",
       "images": [
@@ -711,7 +720,7 @@
         "href": null,
         "total": 2768
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/1nvq3vakg2j1A0wTpV0AkO?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "1nvq3vakg2j1A0wTpV0AkO",
       "images": [
@@ -744,7 +753,7 @@
         "href": null,
         "total": 996
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/3bRYlWJjDUjSK6UJ9QoMsv?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "3bRYlWJjDUjSK6UJ9QoMsv",
       "images": [
@@ -777,7 +786,7 @@
         "href": null,
         "total": 65954
       },
-      "genres": [],
+      "genres": ["rock"],
       "href": "https://api.spotify.com/v1/artists/0TZExq5Dma8hecEIAKwQYA?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "0TZExq5Dma8hecEIAKwQYA",
       "images": [
@@ -852,7 +861,7 @@
         "href": null,
         "total": 39614
       },
-      "genres": [],
+      "genres": ["alternative"],
       "href": "https://api.spotify.com/v1/artists/5mGTnJvTkLDN76DgXka5f0?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "5mGTnJvTkLDN76DgXka5f0",
       "images": [
@@ -885,7 +894,12 @@
         "href": null,
         "total": 113447
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "indie pop",
+        "punk",
+        "psychedelic rock"
+      ],
       "href": "https://api.spotify.com/v1/artists/6sqZoZxe9BQwk7Zxh6STfF?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "6sqZoZxe9BQwk7Zxh6STfF",
       "images": [
@@ -954,7 +968,11 @@
         "href": null,
         "total": 490
       },
-      "genres": [],
+      "genres": [
+        "jazz",
+        "ambient",
+        "psychedelic"
+      ],
       "href": "https://api.spotify.com/v1/artists/5T8HMlfoKDt35nfMJEmSVs?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "5T8HMlfoKDt35nfMJEmSVs",
       "images": [
@@ -987,7 +1005,10 @@
         "href": null,
         "total": 98
       },
-      "genres": [],
+      "genres": [
+        "experimental",
+        "free jazz"
+      ],
       "href": "https://api.spotify.com/v1/artists/6YaaffFY0ni7llF5JCXFx2?locale=en-US%2Cen%3Bq%3D0.5",
       "id": "6YaaffFY0ni7llF5JCXFx2",
       "images": [
@@ -1020,7 +1041,10 @@
         "href": null,
         "total": 342
       },
-      "genres": [],
+      "genres": [
+        "hip-hop",
+        "rap",
+        "techno"],
       "href": "https://api.spotify.com/v1/artists/35ulzN2p7pYU0ExpBYunHb?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "35ulzN2p7pYU0ExpBYunHb",
       "images": [
@@ -1053,7 +1077,10 @@
         "href": null,
         "total": 19
       },
-      "genres": [],
+      "genres": [
+        "electronic",
+        "indie",
+        "experimental"],
       "href": "https://api.spotify.com/v1/artists/3q58ts7NlWmqm4JFJtQ2Mx?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "3q58ts7NlWmqm4JFJtQ2Mx",
       "images": [
@@ -1086,7 +1113,11 @@
         "href": null,
         "total": 91
       },
-      "genres": [],
+      "genres": [
+        "folk",
+        "indie rock",
+        "folk rock",
+        "electropop"],
       "href": "https://api.spotify.com/v1/artists/78o5nSgVR7agYGdHYSK6Ss?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "78o5nSgVR7agYGdHYSK6Ss",
       "images": [
@@ -1119,7 +1150,11 @@
         "href": null,
         "total": 490
       },
-      "genres": [],
+      "genres": [
+        "electronic",
+        "noise",
+        "lo-fi"
+      ],
       "href": "https://api.spotify.com/v1/artists/0fbbPZpbimBVZUnxmuaQ6Z?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "0fbbPZpbimBVZUnxmuaQ6Z",
       "images": [
@@ -1152,7 +1187,11 @@
         "href": null,
         "total": 703
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "funk pop",
+        "groove pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/77tPg40c3emhoRpLz07ZAc?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "77tPg40c3emhoRpLz07ZAc",
       "images": [
@@ -1185,7 +1224,7 @@
         "href": null,
         "total": 49
       },
-      "genres": [],
+      "genres": ["jazz"],
       "href": "https://api.spotify.com/v1/artists/78aiaEInA6KtxEj1DxDn2I?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "78aiaEInA6KtxEj1DxDn2I",
       "images": [
@@ -1218,7 +1257,7 @@
         "href": null,
         "total": 2158
       },
-      "genres": ["brasilialainen jazz"],
+      "genres": ["jazz"],
       "href": "https://api.spotify.com/v1/artists/5GMCyLTNLBsGbQ5bQBeULq?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "5GMCyLTNLBsGbQ5bQBeULq",
       "images": [
@@ -1251,7 +1290,11 @@
         "href": null,
         "total": 41
       },
-      "genres": [],
+      "genres": [
+        "folk",
+        "jazz",
+        "psychedelic folk"
+      ],
       "href": "https://api.spotify.com/v1/artists/0zAwNndusxtkJqqk7i4GNL?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "0zAwNndusxtkJqqk7i4GNL",
       "images": [
@@ -1284,7 +1327,11 @@
         "href": null,
         "total": 350
       },
-      "genres": [],
+      "genres": [
+        "folk",
+        "folk pop",
+        "alternative",
+        "folk rock"],
       "href": "https://api.spotify.com/v1/artists/4QV71xbxJoewG2dD3ctqlU?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "4QV71xbxJoewG2dD3ctqlU",
       "images": [
@@ -1317,7 +1364,10 @@
         "href": null,
         "total": 39
       },
-      "genres": [],
+      "genres": [
+        "electronic",
+        "ambient",
+        "experimental"],
       "href": "https://api.spotify.com/v1/artists/79WUzC2jG3Mt6sG80iPbC6?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "79WUzC2jG3Mt6sG80iPbC6",
       "images": [
@@ -1350,7 +1400,10 @@
         "href": null,
         "total": 5
       },
-      "genres": [],
+      "genres": [
+        "experimental",
+        "contemporary"
+      ],
       "href": "https://api.spotify.com/v1/artists/4OAYa7cLcdwg0b2OJ6YgGk?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "4OAYa7cLcdwg0b2OJ6YgGk",
       "images": [],
@@ -1367,7 +1420,11 @@
         "href": null,
         "total": 47
       },
-      "genres": [],
+      "genres": [
+        "acoustic",
+        "folk",
+        "pop",
+        "rock"],
       "href": "https://api.spotify.com/v1/artists/7dcG1BDna3b6klY4pU7slp?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "7dcG1BDna3b6klY4pU7slp",
       "images": [],
@@ -1384,7 +1441,11 @@
         "href": null,
         "total": 1188
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "art pop",
+        "electronic"
+      ],
       "href": "https://api.spotify.com/v1/artists/5V9K2l2Ubou0y0iHKViVjY?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "5V9K2l2Ubou0y0iHKViVjY",
       "images": [
@@ -1417,7 +1478,9 @@
         "href": null,
         "total": 207
       },
-      "genres": [],
+      "genres": [
+        "world",
+        "instrumental"],
       "href": "https://api.spotify.com/v1/artists/6oytBjaLe3LMRHCOjFKLSl?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "6oytBjaLe3LMRHCOjFKLSl",
       "images": [
@@ -1450,7 +1513,10 @@
         "href": null,
         "total": 161
       },
-      "genres": [],
+      "genres": [
+        "ambient",
+        "psychedelic"
+      ],
       "href": "https://api.spotify.com/v1/artists/4tSDcOK9adBH4HooF9q43f?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "4tSDcOK9adBH4HooF9q43f",
       "images": [],
@@ -1467,7 +1533,12 @@
         "href": null,
         "total": 161
       },
-      "genres": [],
+      "genres": [
+        "rock",
+        "post-punk",
+        "disco",
+        "heavy metal"
+      ],
       "href": "https://api.spotify.com/v1/artists/1pOVgjZX4aICbEtpczbXHc?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "1pOVgjZX4aICbEtpczbXHc",
       "images": [
@@ -1500,7 +1571,12 @@
         "href": null,
         "total": 186
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "disco",
+        "art pop",
+        "synth"
+      ],
       "href": "https://api.spotify.com/v1/artists/7c4uZtGnIyld02wYmK369e?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "7c4uZtGnIyld02wYmK369e",
       "images": [
@@ -1533,7 +1609,13 @@
         "href": null,
         "total": 388
       },
-      "genres": [],
+      "genres": [
+        "alternative",
+        "progressive metal",
+        "math rock",
+        "ambient",
+        "post-rock"
+      ],
       "href": "https://api.spotify.com/v1/artists/54OuR3UqhmpXJ2spB95JKu?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "54OuR3UqhmpXJ2spB95JKu",
       "images": [
@@ -1566,7 +1648,10 @@
         "href": null,
         "total": 59
       },
-      "genres": [],
+      "genres": [
+        "electronic",
+        "alternative"
+      ],
       "href": "https://api.spotify.com/v1/artists/5jODC45OkKCojOQMjbWOJy?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "5jODC45OkKCojOQMjbWOJy",
       "images": [
@@ -1599,7 +1684,13 @@
         "href": null,
         "total": 31
       },
-      "genres": [],
+      "genres": [
+        "alternative",
+        "acoustic rock",
+        "indie rock",
+        "shoegaze",
+        "soft grunge"
+      ],
       "href": "https://api.spotify.com/v1/artists/1niE72hgkYwzn8BsL4iIoo?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "1niE72hgkYwzn8BsL4iIoo",
       "images": [
@@ -1665,7 +1756,7 @@
         "href": null,
         "total": 546
       },
-      "genres": ["elektroninen indie", "idm", "drone"],
+      "genres": ["electronic", "idm", "drone"],
       "href": "https://api.spotify.com/v1/artists/0olP9F3uEz9dRHPIAyoA9W?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "0olP9F3uEz9dRHPIAyoA9W",
       "images": [
@@ -1703,7 +1794,13 @@
         "href": null,
         "total": 54
       },
-      "genres": [],
+      "genres": [
+        "alternative",
+        "afrobeat",
+        "electro funk",
+        "psychedelic",
+        "funk punk"
+      ],
       "href": "https://api.spotify.com/v1/artists/48mKBNxIep45fxKIhiLDE0?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "48mKBNxIep45fxKIhiLDE0",
       "images": [
@@ -1736,7 +1833,11 @@
         "href": null,
         "total": 799
       },
-      "genres": [],
+      "genres": [
+        "funk",
+        "instrumental",
+        "soul"
+      ],
       "href": "https://api.spotify.com/v1/artists/72m7rhXzVCeMEPdSSoERwP?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "72m7rhXzVCeMEPdSSoERwP",
       "images": [
@@ -1807,7 +1908,10 @@
         "href": null,
         "total": 3724
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "folk"
+      ],
       "href": "https://api.spotify.com/v1/artists/5WDhdWVcgfQkhgxka9j119?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "5WDhdWVcgfQkhgxka9j119",
       "images": [
@@ -1840,7 +1944,11 @@
         "href": null,
         "total": 100
       },
-      "genres": [],
+      "genres": [
+        "pop",
+        "acoustic",
+        "singer-songwriter"
+      ],
       "href": "https://api.spotify.com/v1/artists/56KwRyUrxgpwLXuAgpKAGJ?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "56KwRyUrxgpwLXuAgpKAGJ",
       "images": [
@@ -1873,7 +1981,7 @@
         "href": null,
         "total": 65739
       },
-      "genres": ["drum and bass", "uusiseelantilainen reggae"],
+      "genres": ["drum and bass", "reggae"],
       "href": "https://api.spotify.com/v1/artists/31ACkQCBFwLQGxN8MwfSrO?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "31ACkQCBFwLQGxN8MwfSrO",
       "images": [
@@ -1900,36 +2008,44 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/45z3BcO2oQSPUtnkFm5lpU"
+        "spotify": "https://open.spotify.com/artist/4JrJGDWru2BxV5PdHadJwP"
       },
       "followers": {
         "href": null,
-        "total": 113
+        "total": 119
       },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/45z3BcO2oQSPUtnkFm5lpU?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
-      "id": "45z3BcO2oQSPUtnkFm5lpU",
+      "genres": [
+        "indie",
+        "shoegaze",
+        "alternative",
+        "indie rock",
+        "lo-fi",
+        "noise",
+        "post-rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4JrJGDWru2BxV5PdHadJwP?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
+      "id": "4JrJGDWru2BxV5PdHadJwP",
       "images": [
         {
-          "url": "https://i.scdn.co/image/ab67616d0000b273e04c0356b822379bfcd10808",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdb30cfbc42a7e25cb6457ce8",
           "height": 640,
           "width": 640
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00001e02e04c0356b822379bfcd10808",
-          "height": 300,
-          "width": 300
+          "url": "https://i.scdn.co/image/ab67616100005174db30cfbc42a7e25cb6457ce8",
+          "height": 320,
+          "width": 320
         },
         {
-          "url": "https://i.scdn.co/image/ab67616d00004851e04c0356b822379bfcd10808",
-          "height": 64,
-          "width": 64
+          "url": "https://i.scdn.co/image/ab6761610000f178db30cfbc42a7e25cb6457ce8",
+          "height": 160,
+          "width": 160
         }
       ],
-      "name": "Train Of Thought",
-      "popularity": 3,
+      "name": "A-TRAIN OF THOUGHT",
+      "popularity": 0,
       "type": "artist",
-      "uri": "spotify:artist:45z3BcO2oQSPUtnkFm5lpU"
+      "uri": "spotify:artist:4JrJGDWru2BxV5PdHadJwP"
     },
     {
       "external_urls": {
@@ -1939,7 +2055,7 @@
         "href": null,
         "total": 70075
       },
-      "genres": ["post-rock", "progressiivinen rock", "space rock", "taiderock", "progressiivinen metalli"],
+      "genres": ["post-rock", "progressive rock", "space rock", "art rock", "progressive metal"],
       "href": "https://api.spotify.com/v1/artists/6WEyPcf9ezhNLm1xOBjbwH?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "6WEyPcf9ezhNLm1xOBjbwH",
       "images": [
@@ -1972,7 +2088,11 @@
         "href": null,
         "total": 98
       },
-      "genres": [],
+      "genres": [
+        "hip-hop",
+        "rap",
+        "alternative hip-hop"
+      ],
       "href": "https://api.spotify.com/v1/artists/0OMEsE9LALVvYoaz0i368w?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "0OMEsE9LALVvYoaz0i368w",
       "images": [
@@ -2005,7 +2125,7 @@
         "href": null,
         "total": 5832
       },
-      "genres": ["avantgarde", "free jazz", "kokeellinen"],
+      "genres": ["avantgarde", "free jazz", "experimental"],
       "href": "https://api.spotify.com/v1/artists/17PS6mukckWnUN4DwilBBs?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "17PS6mukckWnUN4DwilBBs",
       "images": [
@@ -2076,7 +2196,13 @@
         "href": null,
         "total": 419
       },
-      "genres": [],
+      "genres": [
+        "alternative",
+        "indie",
+        "rock",
+        "pop",
+        "folk"
+      ],
       "href": "https://api.spotify.com/v1/artists/0FymAMhd3H6VqqDyLZwtp2?locale=fi%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8%2Csv%3Bq%3D0.7",
       "id": "0FymAMhd3H6VqqDyLZwtp2",
       "images": [
@@ -2109,7 +2235,11 @@
         "href": null,
         "total": 1575
       },
-      "genres": [],
+      "genres": [
+        "folk",
+        "acoustic",
+        "indie"
+      ],
       "href": "https://api.spotify.com/v1/artists/6hp8t2mWyXEoT3ZusWPTCD?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6hp8t2mWyXEoT3ZusWPTCD",
       "images": [
@@ -2142,7 +2272,9 @@
         "href": null,
         "total": 1164
       },
-      "genres": [],
+      "genres": [
+        "folk"
+      ],
       "href": "https://api.spotify.com/v1/artists/3QqqaxKcV7Nb3CpStYQxyO?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3QqqaxKcV7Nb3CpStYQxyO",
       "images": [
@@ -2176,7 +2308,7 @@
         "total": 710
       },
       "genres": [
-        "фолк-панк"
+        "folk punk"
       ],
       "href": "https://api.spotify.com/v1/artists/7u3huE79AnZBMO7YoxxYkC?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "7u3huE79AnZBMO7YoxxYkC",
@@ -2210,7 +2342,7 @@
         "href": null,
         "total": 4083
       },
-      "genres": [],
+      "genres": ["alternative"],
       "href": "https://api.spotify.com/v1/artists/44MlBczcnULi2g1ECLYSGO?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "44MlBczcnULi2g1ECLYSGO",
       "images": [
@@ -2244,7 +2376,7 @@
         "total": 2124
       },
       "genres": [
-        "латиноамериканский хип-хоп"
+        "hip-hop"
       ],
       "href": "https://api.spotify.com/v1/artists/5ypYTHXIPm06kz4ZYuCh5W?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "5ypYTHXIPm06kz4ZYuCh5W",
@@ -2279,10 +2411,10 @@
         "total": 141271
       },
       "genres": [
-        "спейс-рок",
-        "гранж",
-        "постгранж",
-        "шугейзинг"
+        "space rock",
+        "grunge",
+        "post-grunge",
+        "shoegaze"
       ],
       "href": "https://api.spotify.com/v1/artists/3grvcGPaLhfrD5CYsecr4j?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3grvcGPaLhfrD5CYsecr4j",
@@ -2316,7 +2448,13 @@
         "href": null,
         "total": 3
       },
-      "genres": [],
+      "genres": [
+        "hip-hop",
+        "rap",
+        "indie",
+        "instrumental",
+        "soul"
+      ],
       "href": "https://api.spotify.com/v1/artists/0ApthQ1sfKD0xZo8YlOL8j?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0ApthQ1sfKD0xZo8YlOL8j",
       "images": [
@@ -2349,7 +2487,7 @@
         "href": null,
         "total": 10
       },
-      "genres": [],
+      "genres": ["alternative", "indie"],
       "href": "https://api.spotify.com/v1/artists/0ZJl2KGhMxrI5hYxJHO3ko?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0ZJl2KGhMxrI5hYxJHO3ko",
       "images": [
@@ -2382,7 +2520,7 @@
         "href": null,
         "total": 858
       },
-      "genres": [],
+      "genres": ["hip-hop", "rap"],
       "href": "https://api.spotify.com/v1/artists/4lF3z3c0XsE0Uojp8vCqe1?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "4lF3z3c0XsE0Uojp8vCqe1",
       "images": [
@@ -2415,7 +2553,7 @@
         "href": null,
         "total": 45
       },
-      "genres": [],
+      "genres": ["indie rock", "shoegaze", "rock", "noise rock", "drone"],
       "href": "https://api.spotify.com/v1/artists/2cLZ1HYXRlqCv2jbwhR386?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "2cLZ1HYXRlqCv2jbwhR386",
       "images": [
@@ -2448,7 +2586,7 @@
         "href": null,
         "total": 1517
       },
-      "genres": [],
+      "genres": ["acoustic", "folk", "blues"],
       "href": "https://api.spotify.com/v1/artists/1fbzg9Vtg9KmsiBVx8ghvl?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "1fbzg9Vtg9KmsiBVx8ghvl",
       "images": [
@@ -2481,7 +2619,7 @@
         "href": null,
         "total": 658
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/5edpYxVUN5vGxbX0tpbzyN?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "5edpYxVUN5vGxbX0tpbzyN",
       "images": [],
@@ -2498,7 +2636,7 @@
         "href": null,
         "total": 1089
       },
-      "genres": [],
+      "genres": ["world"],
       "href": "https://api.spotify.com/v1/artists/3qUuV8LlkH4He54Zd8b8xd?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3qUuV8LlkH4He54Zd8b8xd",
       "images": [
@@ -2531,7 +2669,7 @@
         "href": null,
         "total": 245
       },
-      "genres": [],
+      "genres": ["rock", "indie", "alternative", "indie rock"],
       "href": "https://api.spotify.com/v1/artists/0jCT3KVt5RK3QoNgYn4rzJ?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0jCT3KVt5RK3QoNgYn4rzJ",
       "images": [
@@ -2564,7 +2702,7 @@
         "href": null,
         "total": 173
       },
-      "genres": [],
+      "genres": ["alternative", "indie pop", "folk"],
       "href": "https://api.spotify.com/v1/artists/3hOvey4pDel4LSaU8PESB7?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3hOvey4pDel4LSaU8PESB7",
       "images": [
@@ -2597,7 +2735,7 @@
         "href": null,
         "total": 203
       },
-      "genres": [],
+      "genres": ["alternative", "indie", "folk"],
       "href": "https://api.spotify.com/v1/artists/6SnOXIb7cWwsjneSkyhLpA?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6SnOXIb7cWwsjneSkyhLpA",
       "images": [
@@ -2630,7 +2768,7 @@
         "href": null,
         "total": 269
       },
-      "genres": [],
+      "genres": ["alternative", "blues rock", "garage rock", "alternative rock", "rock", "indie rock"],
       "href": "https://api.spotify.com/v1/artists/0JGWdHtpz8SO9VOlSqMeAU?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0JGWdHtpz8SO9VOlSqMeAU",
       "images": [
@@ -2663,7 +2801,7 @@
         "href": null,
         "total": 18
       },
-      "genres": [],
+      "genres": ["alternative", "rap", "hip-hop", "pop"],
       "href": "https://api.spotify.com/v1/artists/0uCGuAbARCF8lcJhDUNoMD?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0uCGuAbARCF8lcJhDUNoMD",
       "images": [
@@ -2696,7 +2834,7 @@
         "href": null,
         "total": 1770
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/3Q4Ywsd7NUHGcDS2xwL8yF?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3Q4Ywsd7NUHGcDS2xwL8yF",
       "images": [
@@ -2729,7 +2867,7 @@
         "href": null,
         "total": 238
       },
-      "genres": [],
+      "genres": ["electronic", "hip-hop", "rock", "reggae", "funk", "soul", "experimental", "krautrock", "techno"],
       "href": "https://api.spotify.com/v1/artists/6LHWoe1UHO5lJzhNo0OfMk?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6LHWoe1UHO5lJzhNo0OfMk",
       "images": [
@@ -2762,7 +2900,7 @@
         "href": null,
         "total": 307
       },
-      "genres": [],
+      "genres": ["soul", "funk", "r&b"],
       "href": "https://api.spotify.com/v1/artists/2m910NkHxVLKHyK0m7rizD?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "2m910NkHxVLKHyK0m7rizD",
       "images": [
@@ -2795,7 +2933,7 @@
         "href": null,
         "total": 362
       },
-      "genres": [],
+      "genres": ["punk", "garage", "indie rock"],
       "href": "https://api.spotify.com/v1/artists/0wjeN9rFyFuc7YKI7pKGo3?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0wjeN9rFyFuc7YKI7pKGo3",
       "images": [
@@ -2828,7 +2966,7 @@
         "href": null,
         "total": 164
       },
-      "genres": [],
+      "genres": ["folk", "blues", "country"],
       "href": "https://api.spotify.com/v1/artists/3sRQvx1u4NqzZ52c1oCKcx?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "3sRQvx1u4NqzZ52c1oCKcx",
       "images": [
@@ -2861,7 +2999,7 @@
         "href": null,
         "total": 54
       },
-      "genres": [],
+      "genres": ["world"],
       "href": "https://api.spotify.com/v1/artists/12kldDt0C3ZRVMFeXJFdkH?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "12kldDt0C3ZRVMFeXJFdkH",
       "images": [
@@ -2894,7 +3032,7 @@
         "href": null,
         "total": 6064
       },
-      "genres": [],
+      "genres": ["folk"],
       "href": "https://api.spotify.com/v1/artists/5oNIzbywDZ62fwhfkuusBK?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "5oNIzbywDZ62fwhfkuusBK",
       "images": [
@@ -2927,7 +3065,7 @@
         "href": null,
         "total": 42
       },
-      "genres": [],
+      "genres": ["electronic", "idm", "ambient"],
       "href": "https://api.spotify.com/v1/artists/4abVjMScx4fTV7gpmn69c3?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "4abVjMScx4fTV7gpmn69c3",
       "images": [
@@ -2960,7 +3098,7 @@
         "href": null,
         "total": 554
       },
-      "genres": [],
+      "genres": ["pop", "folk", "indie"],
       "href": "https://api.spotify.com/v1/artists/0IGdniqj6s9L1Hty8RoIIw?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0IGdniqj6s9L1Hty8RoIIw",
       "images": [
@@ -2993,7 +3131,7 @@
         "href": null,
         "total": 264
       },
-      "genres": [],
+      "genres": ["alternative"],
       "href": "https://api.spotify.com/v1/artists/6dR1uTMK72X8Nn1ElKaWyh?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6dR1uTMK72X8Nn1ElKaWyh",
       "images": [
@@ -3026,7 +3164,7 @@
         "href": null,
         "total": 86
       },
-      "genres": [],
+      "genres": ["electronic", "house", "techno"],
       "href": "https://api.spotify.com/v1/artists/11c9edlRAIShTWOhpSpNIj?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "11c9edlRAIShTWOhpSpNIj",
       "images": [
@@ -3059,7 +3197,7 @@
         "href": null,
         "total": 248
       },
-      "genres": [],
+      "genres": ["hip-hop", "rap"],
       "href": "https://api.spotify.com/v1/artists/0OE061to8uSpH3E6pUokUn?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0OE061to8uSpH3E6pUokUn",
       "images": [
@@ -3092,7 +3230,7 @@
         "href": null,
         "total": 103
       },
-      "genres": [],
+      "genres": ["electronic", "idm"],
       "href": "https://api.spotify.com/v1/artists/0E4hsCAeIN0wnU3mDH9CiL?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0E4hsCAeIN0wnU3mDH9CiL",
       "images": [
@@ -3126,7 +3264,7 @@
         "total": 371
       },
       "genres": [
-        "дарк-вейв"
+        "dark wave"
       ],
       "href": "https://api.spotify.com/v1/artists/1ACkrUH3CCxq9aKYT32PIT?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "1ACkrUH3CCxq9aKYT32PIT",
@@ -3160,7 +3298,7 @@
         "href": null,
         "total": 242
       },
-      "genres": [],
+      "genres": ["alternative", "math rock", "post-hardcore", "progressive", "post-rock"],
       "href": "https://api.spotify.com/v1/artists/1SfVEAMmkvveRuT1Iz1hkD?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "1SfVEAMmkvveRuT1Iz1hkD",
       "images": [
@@ -3194,7 +3332,7 @@
         "total": 22
       },
       "genres": [
-        "пауэр-метал"
+        "power metal"
       ],
       "href": "https://api.spotify.com/v1/artists/2UvWns7PXjNSbv47jCIUFw?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "2UvWns7PXjNSbv47jCIUFw",
@@ -3213,7 +3351,7 @@
         "total": 926
       },
       "genres": [
-        "новая популярная бразильская музыка"
+        "world", "experimental", "folk"
       ],
       "href": "https://api.spotify.com/v1/artists/4zLfRDb3ZpDMbUWXSgeUaU?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "4zLfRDb3ZpDMbUWXSgeUaU",
@@ -3247,7 +3385,7 @@
         "href": null,
         "total": 136
       },
-      "genres": [],
+      "genres": ["rock", "blues rock", "folk rock", "country", "singer-songwriter"],
       "href": "https://api.spotify.com/v1/artists/6CgK3nhHDCXsv4i0hnKoLw?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6CgK3nhHDCXsv4i0hnKoLw",
       "images": [
@@ -3281,7 +3419,7 @@
         "total": 116
       },
       "genres": [
-        "итальянские авторские песни"
+        "acoustic", "pop", "rock"
       ],
       "href": "https://api.spotify.com/v1/artists/4fe9IKDjRw1vMJsP9Q2Cpw?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "4fe9IKDjRw1vMJsP9Q2Cpw",
@@ -3315,7 +3453,7 @@
         "href": null,
         "total": 56
       },
-      "genres": [],
+      "genres": ["alternative", "indie rock", "rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/1vyS5XhaZ09NckqPc9ZrD1?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "1vyS5XhaZ09NckqPc9ZrD1",
       "images": [
@@ -3349,7 +3487,7 @@
         "total": 172
       },
       "genres": [
-        "итальянский трэп"
+        "hip-hop", "rap"
       ],
       "href": "https://api.spotify.com/v1/artists/0AWoGmyIhqmbAjB4vnSmvQ?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "0AWoGmyIhqmbAjB4vnSmvQ",
@@ -3384,8 +3522,8 @@
         "total": 2620607
       },
       "genres": [
-        "трип-хоп",
-        "даунтемпо"
+        "trip hop",
+        "downtempo"
       ],
       "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X?locale=ru-RU%2Cru%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3",
       "id": "6FXMGgJwohJLUSr5nVlf9X",

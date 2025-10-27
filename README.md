@@ -4,7 +4,7 @@ Streamageddon is our Data Science project that aims to identify similarities amo
 
 ## How did we approach this problem?
 
-We collected data on ~100 artists who recently boycotted Spotify or did so in the last few years. Then we collected data on other artists who did not leave and used machine learning techniques to train the algorithm to distinguish between the two. We based our prediction on multiple factors, such as the artist's followers count, popularity rate, and genres they perform. You can read more about technical details in our tech report! (add link to the report later)
+We collected data on ~100 artists who recently boycotted Spotify or did so in the last few years. Then we collected data on other artists who did not leave and used machine learning techniques to train the algorithm to distinguish between the two. We based our prediction on multiple factors, such as the artist's followers count, popularity rate, and genres they perform. You can read more about technical details in our [tech report](/technical-report.pdf)!
 
 ## And the results are...
 
